@@ -1,2 +1,2 @@
 # Narusaka
-A general purpose discord bot
+A general Music Bot for your sick beats
